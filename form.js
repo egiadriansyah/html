@@ -2,12 +2,12 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebas
 import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDTf4ecR2cyTeJ0Rw7weMUcUPKQY-hJdiE",
+  apiKey: "",
   authDomain: "formlogin-6147d.firebaseapp.com",
-  projectId: "formlogin-6147d",
-  storageBucket: "formlogin-6147d.appspot.com",
-  messagingSenderId: "680064768999",
-  appId: "1:680064768999:web:cdf2ec0fe4fe31319e3b42"
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
